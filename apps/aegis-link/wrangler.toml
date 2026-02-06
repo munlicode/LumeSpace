@@ -1,0 +1,12 @@
+name = "aegis-link"
+main = "src/index.ts"
+compatibility_date = "2024-02-08"
+
+# [durable_objects]
+# bindings = [
+#   { name = "SATELLITE_NODE", class_name = "SatelliteNode" }
+# ]
+
+# [[migrations]]
+# tag = "v1"
+# new_classes = ["SatelliteNode"]
